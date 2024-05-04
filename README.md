@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @keremio
 - 👀 I’m interested in Python and C programming.
 - 🌱 I’m currently learning at METU
-- 💞️ I’m looking to collaborate on projects especially on Python
-- 📫 How to reach me kyakutlu1003@gmail.com | 5392738970
+- 💞️ I’m looking to collaborate on projects especially on Python & MATLAB
+- 📫 How to reach me kyakutlu1003@gmail.com | 5346836981
 
 <!---
 keremio/keremio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
